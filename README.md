@@ -103,18 +103,7 @@ g.V('NINT').in('STUDIES')
 
 ---
 
-## Getting Started
 
-```bash
-git clone https://github.com/YOUR_USERNAME/therapeutic-knowledge-graph
-cd therapeutic-knowledge-graph
-npm install
-```
-
-Create a `.env` file:
-
-```env
-VITE_ANTHROPIC_API_KEY=your_api_key_here
 ```
 
 > ⚠️ API key is used client-side for demo purposes only. In production, route all LLM calls through a backend service.
@@ -169,4 +158,4 @@ Accessibility Specialist → GenAI Developer
 
 ---
 
-*Built with Claude Code · February 2026*
+
